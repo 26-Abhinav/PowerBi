@@ -1,4 +1,4 @@
-# PowerBi
+# FINANCIAL DASHBOARD
 This repository contains the source file (FINANCIAL DASHBOARD - 1.pbix) for a comprehensive, interactive Financial Dashboard built in Power BI. This dashboard is designed to provide users with a clear, visual overview of key financial performance indicators (KPIs) and enable deep-dive analysis into financial data.
 
 # Dashboard Overview
