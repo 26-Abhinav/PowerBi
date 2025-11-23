@@ -54,4 +54,4 @@ If you wish to modify or build upon this dashboard:
 * Review DAX Measures: Focus on the calculated fields to see how the financial KPIs are defined.
 
 # Screenshot
-  Dashboard looks like : 
+  Dashboard looks like : https://github.com/26-Abhinav/PowerBi/blob/main/Snapshot%20of%20Financial%20Dashboard.png
